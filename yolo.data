@@ -1,0 +1,5 @@
+classes = 1
+train   = F:\Library\kitty\cat-dataset\cats\train.txt
+valid   = F:\Library\kitty\cat-dataset\cats\test.txt
+names   = F:\Library\kitty\cat-dataset\cats\obj.names
+backup  = F:\Library\kitty\cat-dataset\cats\backups
